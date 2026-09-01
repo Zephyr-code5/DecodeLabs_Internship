@@ -1,2 +1,2 @@
 # DecodeLabs_Internship
-Decodelads Ai Internship program projects
+Decodelabs Ai Internship program projects
